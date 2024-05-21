@@ -18,4 +18,9 @@
       <Folder Include="Response\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\2 Domain\2 Domain.csproj" />
+      <ProjectReference Include="..\3 Data\3 Data.csproj" />
+    </ItemGroup>
+
 </Project>

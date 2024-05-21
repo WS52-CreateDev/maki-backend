@@ -107,6 +107,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "2 Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "3 Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/2 Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2 Domain.dll": {}
+        }
+      },
+      "3 Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "3 Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/3 Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3 Data.dll": {}
+        }
+      },
+      "3 Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/3 Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3 Shared.dll": {}
+        }
       }
     }
   },
@@ -460,10 +496,27 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "2 Domain/1.0.0": {
+      "type": "project",
+      "path": "../2 Domain/2 Domain.csproj",
+      "msbuildProject": "../2 Domain/2 Domain.csproj"
+    },
+    "3 Data/1.0.0": {
+      "type": "project",
+      "path": "../3 Data/3 Data.csproj",
+      "msbuildProject": "../3 Data/3 Data.csproj"
+    },
+    "3 Shared/1.0.0": {
+      "type": "project",
+      "path": "../3 Shared/3 Shared.csproj",
+      "msbuildProject": "../3 Shared/3 Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "2 Domain >= 1.0.0",
+      "3 Data >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.17",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -474,11 +527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\1 API\\1 API.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\1 API\\1 API.csproj",
       "projectName": "1 API",
-      "projectPath": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\1 API\\1 API.csproj",
+      "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\1 API\\1 API.csproj",
       "packagesPath": "C:\\Users\\Alejandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\1 API\\obj\\",
+      "outputPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\1 API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandra\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -492,7 +545,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\2 Domain\\2 Domain.csproj": {
+              "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\2 Domain\\2 Domain.csproj"
+            },
+            "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Data\\3 Data.csproj": {
+              "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Data\\3 Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

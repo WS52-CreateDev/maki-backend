@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "3 Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/3 Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3 Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "3 Shared/1.0.0": {
+      "type": "project",
+      "path": "../3 Shared/3 Shared.csproj",
+      "msbuildProject": "../3 Shared/3 Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "3 Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alejandra\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\3 Data\\3 Data.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Data\\3 Data.csproj",
       "projectName": "3 Data",
-      "projectPath": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\3 Data\\3 Data.csproj",
+      "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Data\\3 Data.csproj",
       "packagesPath": "C:\\Users\\Alejandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\3 Data\\obj\\",
+      "outputPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandra\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Shared\\3 Shared.csproj": {
+              "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Shared\\3 Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

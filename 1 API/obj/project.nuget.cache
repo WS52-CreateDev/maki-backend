@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lx416mVowq9zzs3UOXKsvmM3UfA8Wl1GPzGOgTEtre+kZCmV0zywNwFdZ3c6C0hVpPX8123d0q0/RgkVvmacWA==",
+  "dgSpecHash": "+/I7O1QEFUBuuOXYnlfzNPHl4MLLrSB1Uujq0JWOGACB1jsI+mKSPZQ7YVtfYB8r0Mu3rff2R1XbKdR8HyA7Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\1 API\\1 API.csproj",
+  "projectFilePath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\1 API\\1 API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alejandra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
     "C:\\Users\\Alejandra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
