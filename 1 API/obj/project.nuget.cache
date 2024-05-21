@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lx416mVowq9zzs3UOXKsvmM3UfA8Wl1GPzGOgTEtre+kZCmV0zywNwFdZ3c6C0hVpPX8123d0q0/RgkVvmacWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejandra\\Documents\\C#\\maki-backend\\maki-backend\\1 API\\1 API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
+    "C:\\Users\\Alejandra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Alejandra\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Alejandra\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Alejandra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Alejandra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Alejandra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
