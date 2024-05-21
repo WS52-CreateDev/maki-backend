@@ -1,0 +1,11 @@
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\bin\Debug\net7.0\3 Shared.deps.json
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\bin\Debug\net7.0\3 Shared.dll
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\bin\Debug\net7.0\3 Shared.pdb
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\3 Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\3 Shared.AssemblyInfoInputs.cache
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\3 Shared.AssemblyInfo.cs
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\3 Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\3 Shared.dll
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\refint\3 Shared.dll
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\3 Shared.pdb
+C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Shared\obj\Debug\net7.0\ref\3 Shared.dll
