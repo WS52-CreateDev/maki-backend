@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace _3_Data.Models;
 
@@ -28,5 +29,6 @@ public class Product
     public int Artisan { get; set; }
     [Required]
     public int Category { get; set; }
-    
+
+    public bool IsActive { get; set; } = true;
 }

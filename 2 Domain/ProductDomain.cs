@@ -13,18 +13,36 @@ public class ProductDomain : IProductDomain
         _productData = productData;
     }
 
-    public bool Save(Product data)
+    public async Task<bool> SaveAsync(Product data)
     {
-        return _productData.Save(data);
+        //add business rules
+        var product = await _productData.GetByNameAsync(data.Name);
+        if (product!= null)
+        {
+            throw new Exception("Name already exists.");
+        }
+        
+        return await _productData.SaveAsync(data);
     }
-    
+    /*
     public bool Update(Product data, int id)
     {
-        throw new NotImplementedException();
+        return _productData.Update(data, id);
     }
 
     public bool Delete(int id)
     {
-        throw new NotImplementedException();
+        return _productData.Delete(id);
     }
+    */
+    public async Task<bool> UpdateAsync(Product data, int id)
+    {
+        return await _productData.UpdateAsync(data, id);
+    }
+
+    public async Task<bool> DeleteAsync(int id)
+    {
+        return await _productData.DeleteAsync(id);
+    }
+    
 }

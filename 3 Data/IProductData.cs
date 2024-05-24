@@ -4,14 +4,20 @@ namespace _3_Data;
 
 public interface IProductData
 {
-    List<Product> GetAll();
+    Task<List<Product>> GetAllAsync();
     
     Product GetById(int id);
     
-    bool Save(Product data);
+    Task<Product> GetByNameAsync(string name);
     
+    Task<bool> SaveAsync(Product data);
+    /*
     bool Update(Product data, int id);
-    
+
     bool Delete(int id);
+    */
+    Task<bool> UpdateAsync(Product data, int id);
+
+    Task<bool> DeleteAsync(int id);
     
 }
