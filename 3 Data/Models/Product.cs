@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace _3_Data.Models;
 
@@ -26,9 +27,13 @@ public class Product
     [Required]
     public string Material { get; set; }
     [Required]
-    public int Artisan { get; set; }
+    public int ArtisanId { get; set; }
     [Required]
-    public int Category { get; set; }
-
+    public int CategoryId { get; set; }
+    
+    [ForeignKey("CategoryId")]
+    public Category Category { get; set; }
+    
     public bool IsActive { get; set; } = true;
+    
 }

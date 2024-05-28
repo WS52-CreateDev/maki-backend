@@ -1,4 +1,6 @@
-﻿namespace _1_API.Response;
+﻿using _3_Data.Models;
+
+namespace _1_API.Response;
 
 public class ProductResponse
 {
@@ -12,6 +14,6 @@ public class ProductResponse
     public string Height { get; set; }
     public string Depth { get; set; }
     public string Material { get; set; }
-    public int Artisan { get; set; }
-    public int Category { get; set; }
+    public int ArtisanId { get; set; }
+    public string CategoryName { get; set; }
 }

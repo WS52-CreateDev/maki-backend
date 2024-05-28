@@ -1,7 +1,6 @@
 ﻿using _1_API.Request;
 using _1_API.Response;
 using _2_Domain;
-using _3_Data;
 using _3_Data.Models;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
@@ -10,51 +9,51 @@ namespace _1_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductController : ControllerBase
+    public class CategoryController : ControllerBase
     {
-        private IProductData _productData;
-        private IProductDomain _productDomain;
+        private ICategoryData _categoryData;
+        private ICategoryDomain _categoryDomain;
         private IMapper _mapper;
         
-        public ProductController(IProductData productData, IProductDomain productDomain, IMapper mapper)
+        public CategoryController(ICategoryData categoryData, ICategoryDomain categoryDomain, IMapper mapper)
         {
-            _productData = productData;
-            _productDomain = productDomain;
+            _categoryData = categoryData;
+            _categoryDomain = categoryDomain;
             _mapper = mapper;
         }
         
-        // GET: api/Product
+        // GET: api/Category
         [HttpGet]
         public async Task<IActionResult> GetAsync()
         {
-            var data = await _productData.GetAllAsync();
-            var result = _mapper.Map<List<Product>, List<ProductResponse>>(data);
+            var data = await _categoryData.GetAllAsync();
+            var result = _mapper.Map<List<Category>, List<CategoryResponse>>(data);
             return Ok(result);
         }
         
-        // GET: api/Product/id
+        // GET: api/Category/id
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
-            var data =  _productData.GetById(id);
-            var result = _mapper.Map<Product, ProductResponse>(data);
+            var data =  _categoryData.GetById(id);
+            var result = _mapper.Map<Category, CategoryResponse>(data);
             
             if (result != null)
                 return Ok(result);
 
             return StatusCode(StatusCodes.Status404NotFound);
         }
-
-        // POST: api/Product
+        
+        // POST: api/Category
         [HttpPost]
-        public async Task<IActionResult> PostAsync([FromBody] ProductRequest input)
+        public async Task<IActionResult> PostAsync([FromBody] CategoryRequest input)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    var product = _mapper.Map<ProductRequest, Product>(input);
-                    var result = await _productDomain.SaveAsync(product);
+                    var category = _mapper.Map<CategoryRequest, Category>(input);
+                    var result = await _categoryDomain.SaveAsync(category);
                     if (result)
                         return StatusCode(StatusCodes.Status201Created);
                 }
@@ -66,15 +65,15 @@ namespace _1_API.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
             }
         }
-
-        //PUT: api/Product/id
+        
+        //PUT: api/Category/id
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutAsync(int id, [FromBody] ProductRequest input)
+        public async Task<IActionResult> PutAsync(int id, [FromBody] CategoryRequest input)
         {
             if (ModelState.IsValid)
             {
-                var product = _mapper.Map<ProductRequest, Product>(input);
-                var result = await _productDomain.UpdateAsync(product, id);
+                var category = _mapper.Map<CategoryRequest, Category>(input);
+                var result = await _categoryDomain.UpdateAsync(category, id);
                 if (result)
                 {
                     return Ok();
@@ -82,15 +81,16 @@ namespace _1_API.Controllers
             }
             return StatusCode(StatusCodes.Status400BadRequest);
         }
-
-        // DELETE: api/Product/id
+        
+        // DELETE: api/Category/id
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
-            await _productDomain.DeleteAsync(id);
+            await _categoryDomain.DeleteAsync(id);
             return Ok();
         }
-        
+
     }
     
 }
+

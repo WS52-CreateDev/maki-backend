@@ -17,7 +17,10 @@ public class ProductData : IProductData
 
     public async Task<List<Product>> GetAllAsync()
     {
-        var result = await _makiContext.Products.Where(p=> p.IsActive).ToListAsync();
+        var result = await _makiContext.Products
+            .Include(p => p.Category) 
+            .Where(p=> p.IsActive)
+            .ToListAsync();
         return result;
     }
 
@@ -43,34 +46,6 @@ public class ProductData : IProductData
         });
         return true;
     }
-    /*
-    public bool Update(Product data, int id)
-    {
-        var existingProduct = _makiContext.Products.Where(p => p.Id == id).FirstOrDefault();
-        existingProduct.Name = data.Name;
-        existingProduct.Description = data.Description;
-        existingProduct.Price = data.Price;
-        existingProduct.Image = data.Image;
-        existingProduct.Width = data.Width;
-        existingProduct.Height = data.Height;
-        existingProduct.Depth = data.Depth;
-        existingProduct.Material = data.Material;
-        existingProduct.Category = data.Category;
-
-        _makiContext.Products.Update(existingProduct);
-        _makiContext.SaveChanges();
-        return true;
-    }
-
-    public bool Delete(int id)
-    {
-        var existingProduct = _makiContext.Products.Where(p => p.Id == id).FirstOrDefault();
-        existingProduct.IsActive = false;
-        _makiContext.Products.Update(existingProduct);
-        _makiContext.SaveChanges();
-        return true;
-    }
-    */
     
     public async Task<bool> UpdateAsync(Product data, int id)
     {
@@ -83,7 +58,6 @@ public class ProductData : IProductData
         existingProduct.Height = data.Height;
         existingProduct.Depth = data.Depth;
         existingProduct.Material = data.Material;
-        existingProduct.Category = data.Category;
         
         _makiContext.Products.Update(existingProduct);
         await _makiContext.SaveChangesAsync();

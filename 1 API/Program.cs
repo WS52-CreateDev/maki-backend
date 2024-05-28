@@ -2,6 +2,7 @@ using _1_API.Mapper;
 using _2_Domain;
 using _3_Data;
 using _3_Data.Contexts;
+using _3_Data.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,6 +17,8 @@ builder.Services.AddSwaggerGen();
 //dependency inyection
 builder.Services.AddScoped<IProductData, ProductData>();
 builder.Services.AddScoped<IProductDomain, ProductDomain>();
+builder.Services.AddScoped<ICategoryData, CategoryData>();
+builder.Services.AddScoped<ICategoryDomain, CategoryDomain>();
 
 //automapper
 builder.Services.AddAutoMapper(

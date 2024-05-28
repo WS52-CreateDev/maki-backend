@@ -11,11 +11,7 @@ public interface IProductData
     Task<Product> GetByNameAsync(string name);
     
     Task<bool> SaveAsync(Product data);
-    /*
-    bool Update(Product data, int id);
 
-    bool Delete(int id);
-    */
     Task<bool> UpdateAsync(Product data, int id);
 
     Task<bool> DeleteAsync(int id);

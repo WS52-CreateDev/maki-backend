@@ -24,7 +24,7 @@ public class ProductRequest
     [Required]
     public string Material { get; set; }
     [Required]
-    public int Artisan { get; set; }
+    public int ArtisanId { get; set; }
     [Required]
-    public int Category { get; set; }
+    public int CategoryId { get; set; }
 }

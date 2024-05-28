@@ -24,17 +24,7 @@ public class ProductDomain : IProductDomain
         
         return await _productData.SaveAsync(data);
     }
-    /*
-    public bool Update(Product data, int id)
-    {
-        return _productData.Update(data, id);
-    }
-
-    public bool Delete(int id)
-    {
-        return _productData.Delete(id);
-    }
-    */
+    
     public async Task<bool> UpdateAsync(Product data, int id)
     {
         return await _productData.UpdateAsync(data, id);

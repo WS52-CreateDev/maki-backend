@@ -16,6 +16,7 @@ public class MakiContext : DbContext
     }
     
     public DbSet<Product> Products { get; set; }
+    public DbSet<Category> Categories { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -30,6 +31,11 @@ public class MakiContext : DbContext
     {
         base.OnModelCreating(builder);
         builder.Entity<Product>().ToTable("Product");
+        builder.Entity<Category>().ToTable("Category");
         
+        builder.Entity<Product>()
+            .HasOne(p => p.Category)
+            .WithMany(c => c.Products)
+            .HasForeignKey(p => p.CategoryId);
     }
 }

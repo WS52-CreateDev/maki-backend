@@ -9,6 +9,7 @@ public class RequestToModels : Profile
     public RequestToModels()
     {
         CreateMap<ProductRequest, Product>();
+        CreateMap<CategoryRequest, Category>();
     }
     
 }
