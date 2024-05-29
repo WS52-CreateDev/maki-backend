@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alejandra\\.nuget\\packages\\": {}
+    "C:\\Users\\ANTONELLA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Shared\\3 Shared.csproj",
+      "projectUniqueName": "C:\\SEPTIMO CICLO\\APLICACIONES WEB\\TRABAJOS\\TB2\\maki-backend\\3 Shared\\3 Shared.csproj",
       "projectName": "3 Shared",
-      "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Shared\\3 Shared.csproj",
-      "packagesPath": "C:\\Users\\Alejandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\3 Shared\\obj\\",
+      "projectPath": "C:\\SEPTIMO CICLO\\APLICACIONES WEB\\TRABAJOS\\TB2\\maki-backend\\3 Shared\\3 Shared.csproj",
+      "packagesPath": "C:\\Users\\ANTONELLA\\.nuget\\packages\\",
+      "outputPath": "C:\\SEPTIMO CICLO\\APLICACIONES WEB\\TRABAJOS\\TB2\\maki-backend\\3 Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alejandra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ANTONELLA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Alejandra\\.dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }

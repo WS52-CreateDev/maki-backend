@@ -13,3 +13,18 @@ C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Data\obj\Debug\net7.0\3 Data.
 C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Data\obj\Debug\net7.0\refint\3 Data.dll
 C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Data\obj\Debug\net7.0\3 Data.pdb
 C:\Users\Alejandra\Documents\GitHub\maki-backend\3 Data\obj\Debug\net7.0\ref\3 Data.dll
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\bin\Debug\net7.0\3 Data.deps.json
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\bin\Debug\net7.0\3 Data.dll
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\bin\Debug\net7.0\3 Data.pdb
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\bin\Debug\net7.0\3 Shared.dll
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\bin\Debug\net7.0\3 Shared.pdb
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.csproj.AssemblyReference.cache
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.AssemblyInfoInputs.cache
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.AssemblyInfo.cs
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.csproj.CoreCompileInputs.cache
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.csproj.CopyComplete
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.dll
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\refint\3 Data.dll
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\3 Data.pdb
+C:\SEPTIMO CICLO\APLICACIONES WEB\TRABAJOS\TB2\maki-backend\3 Data\obj\Debug\net7.0\ref\3 Data.dll
