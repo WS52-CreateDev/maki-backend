@@ -4,7 +4,7 @@ namespace _2_Domain;
 
 public interface IProductDomain
 {
-    Task<bool> SaveAsync(Product data);
+    Task<int> SaveAsync(Product data);
 
     Task<bool> UpdateAsync(Product data, int id);
 
