@@ -55,7 +55,7 @@ namespace _1_API.Controllers
                 {
                     var product = _mapper.Map<ProductRequest, Product>(input);
                     var result = await _productDomain.SaveAsync(product);
-                    if (result)
+                    if (result > 0)
                         return StatusCode(StatusCodes.Status201Created);
                 }
 

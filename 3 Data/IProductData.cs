@@ -10,7 +10,7 @@ public interface IProductData
     
     Task<Product> GetByNameAsync(string name);
     
-    Task<bool> SaveAsync(Product data);
+    Task<int> SaveAsync(Product data);
 
     Task<bool> UpdateAsync(Product data, int id);
 

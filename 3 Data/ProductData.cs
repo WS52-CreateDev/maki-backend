@@ -34,7 +34,7 @@ public class ProductData : IProductData
         return await _makiContext.Products.Where(p=> p.Name == name && p.IsActive).FirstOrDefaultAsync();
     }
     
-    public async Task<bool> SaveAsync(Product data)
+    public async Task<int> SaveAsync(Product data)
     {
         var strategy = _makiContext.Database.CreateExecutionStrategy();
         await strategy.ExecuteAsync(async () =>
@@ -44,7 +44,7 @@ public class ProductData : IProductData
             await _makiContext.SaveChangesAsync();
             await transaction.CommitAsync();
         });
-        return true;
+        return data.Id;
     }
     
     public async Task<bool> UpdateAsync(Product data, int id)
