@@ -1,14 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 API", "1 API\1 API.csproj", "{EF016E4B-9312-4D2B-A320-18D4A87AABE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maki.Presentation", "Maki.Presentation\Maki.Presentation.csproj", "{EF016E4B-9312-4D2B-A320-18D4A87AABE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Domain", "2 Domain\2 Domain.csproj", "{8C20F5F8-432A-4BFA-8940-A5548B55055A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maki.Domain", "Maki.Domain\Maki.Domain.csproj", "{8C20F5F8-432A-4BFA-8940-A5548B55055A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Data", "3 Data\3 Data.csproj", "{954B0C96-9A12-4D1B-B4D5-30DA5EE60EFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maki.Infraestructure", "Maki.Infraestructure\Maki.Infraestructure.csproj", "{954B0C96-9A12-4D1B-B4D5-30DA5EE60EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Shared", "3 Shared\3 Shared.csproj", "{3611F24B-1A03-4488-A8FF-001C6BE8861B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maki.Shared", "Maki.Shared\Maki.Shared.csproj", "{3611F24B-1A03-4488-A8FF-001C6BE8861B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Domain.Test", "2 Domain.Test\2 Domain.Test.csproj", "{7B50A732-D930-4FFF-BB13-FA57B479DC49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maki.Domain.Test", "Maki.Domain.Test\Maki.Domain.Test.csproj", "{7B50A732-D930-4FFF-BB13-FA57B479DC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maki.Presentation.Test", "Maki.Presentation.Test\Maki.Presentation.Test.csproj", "{5B0123CC-651E-4013-A9C0-3B9A1B1F0044}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +38,9 @@ Global
 		{7B50A732-D930-4FFF-BB13-FA57B479DC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B50A732-D930-4FFF-BB13-FA57B479DC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B50A732-D930-4FFF-BB13-FA57B479DC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0123CC-651E-4013-A9C0-3B9A1B1F0044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0123CC-651E-4013-A9C0-3B9A1B1F0044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0123CC-651E-4013-A9C0-3B9A1B1F0044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0123CC-651E-4013-A9C0-3B9A1B1F0044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
