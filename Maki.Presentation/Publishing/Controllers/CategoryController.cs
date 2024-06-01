@@ -28,6 +28,7 @@ namespace _1_API.Controllers
         {
             var data = await _categoryData.GetAllAsync();
             var result = _mapper.Map<List<Category>, List<CategoryResponse>>(data);
+            if (result.Count == 0) return NotFound();
             return Ok(result);
         }
         
@@ -76,7 +77,7 @@ namespace _1_API.Controllers
                 var result = await _categoryDomain.UpdateAsync(category, id);
                 if (result)
                 {
-                    return Ok();
+                    return Ok(result);
                 }
             }
             return StatusCode(StatusCodes.Status400BadRequest);
