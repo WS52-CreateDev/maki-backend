@@ -9,4 +9,5 @@ public interface ICategoryDomain
     Task<bool> UpdateAsync(Category data, int id);
 
     Task<bool> DeleteAsync(int id);
+    
 }

@@ -19,6 +19,9 @@ builder.Services.AddScoped<IProductData, ProductData>();
 builder.Services.AddScoped<IProductDomain, ProductDomain>();
 builder.Services.AddScoped<ICategoryData, CategoryData>();
 builder.Services.AddScoped<ICategoryDomain, CategoryDomain>();
+builder.Services.AddScoped<ICustomerData, CustomerData>();
+builder.Services.AddScoped<ICustomerDomain, CustomerDomain>();
+
 
 //automapper
 builder.Services.AddAutoMapper(

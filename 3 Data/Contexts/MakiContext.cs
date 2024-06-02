@@ -17,13 +17,15 @@ public class MakiContext : DbContext
     
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
+    
+    public DbSet<Customer> Customers { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         if (!optionsBuilder.IsConfigured)
         {
             var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
-            optionsBuilder.UseMySql("Server=127.0.0.1,3306;Uid=root;Pwd=root;Database=Maki;", serverVersion);
+            optionsBuilder.UseMySql("Server=127.0.0.1,3306;Uid=root;Pwd=1234;Database=Maki;", serverVersion);
         }
     }
 
@@ -32,10 +34,12 @@ public class MakiContext : DbContext
         base.OnModelCreating(builder);
         builder.Entity<Product>().ToTable("Product");
         builder.Entity<Category>().ToTable("Category");
-        
+    
         builder.Entity<Product>()
             .HasOne(p => p.Category)
             .WithMany(c => c.Products)
-            .HasForeignKey(p => p.CategoryId);
+            .HasForeignKey(p => p.CategoryId); 
+        
+        builder.Entity<Customer>().ToTable("Customer");
     }
 }
