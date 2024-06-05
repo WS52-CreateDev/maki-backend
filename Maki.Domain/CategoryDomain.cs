@@ -1,4 +1,5 @@
-﻿using _3_Data.Models;
+﻿using System.Data;
+using _3_Data.Models;
 
 namespace _2_Domain;
 
@@ -16,7 +17,7 @@ public class CategoryDomain : ICategoryDomain
         var category = await _categoryData.GetByNameAsync(data.Name);
         if (category!= null)
         {
-            throw new Exception("Name already exists.");
+            throw new DuplicateNameException("Name already exists.");
         }
         
         return await _categoryData.SaveAsync(data);

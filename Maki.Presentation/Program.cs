@@ -1,4 +1,5 @@
 using _1_API.Mapper;
+using _1_API.Middleware;
 using _2_Domain;
 using _3_Data;
 using _3_Data.Contexts;
@@ -28,7 +29,7 @@ builder.Services.AddAutoMapper(
 
 //Conexion a MySQL
 var connectionString = builder.Configuration.GetConnectionString("makiConnection");
-var serverVersion = new MySqlServerVersion(new Version(8, 0, 25));
+var serverVersion = ServerVersion.AutoDetect(connectionString);
 
 builder.Services.AddDbContext<MakiContext>(
     dbContextOptions =>
@@ -43,6 +44,8 @@ builder.Services.AddDbContext<MakiContext>(
     });
 
 var app = builder.Build();
+
+app.UseMiddleware<ErrorHandlerMiddleware>();
 
 //generar BD
 using (var scope = app.Services.CreateScope())
