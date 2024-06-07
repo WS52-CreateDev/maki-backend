@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ab67cd7-2331-43b5-8d68-1da3aaba31a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/bin/Debug/net7.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/bin/Debug/net7.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/Debug/net7.0/Maki.Domain.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/Debug/net7.0/Maki.Domain.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/Debug/net7.0/Maki.Domain.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/Debug/net7.0/Maki.Domain.Test.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/Debug/net7.0/Maki.Domain.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/Debug/net7.0/Maki.Domain.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/Maki.Domain.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/Maki.Domain.Test.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/Maki.Domain.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/Maki.Domain.Test.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain.Test/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain.Test/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Infraestructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Infraestructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Infraestructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Infraestructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/bin/Debug/net7.0/Maki.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/Maki.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/ref/Maki.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/ref/Maki.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/refint/Maki.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Debug/net7.0/refint/Maki.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Maki.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Maki.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/Maki.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/Maki.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/Contexts/MakiContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/Contexts/MakiContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Infraestructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Infraestructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Infraestructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Infraestructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/bin/Debug/net7.0/Maki.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/Maki.Infraestructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/ref/Maki.Infraestructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/ref/Maki.Infraestructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/refint/Maki.Infraestructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Debug/net7.0/refint/Maki.Infraestructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Maki.Infraestructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Maki.Infraestructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/Maki.Infraestructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/Maki.Infraestructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Infraestructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Infraestructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/bin/Debug/net7.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/bin/Debug/net7.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Debug/net7.0/Maki.Presentation.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Debug/net7.0/Maki.Presentation.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Debug/net7.0/Maki.Presentation.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Debug/net7.0/Maki.Presentation.Test.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Debug/net7.0/Maki.Presentation.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Debug/net7.0/Maki.Presentation.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Maki.Presentation.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Maki.Presentation.Test.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Maki.Presentation.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/Maki.Presentation.Test.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation.Test/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation.Test/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/Mapper/ModelsToRequest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/Mapper/ModelsToRequest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/Mapper/ModelsToResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/Mapper/ModelsToResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/Mapper/RequestToModels.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/Mapper/RequestToModels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Infraestructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Infraestructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Infraestructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Infraestructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Presentation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Presentation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Presentation.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Presentation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/Maki.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/bin/Debug/net7.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/Maki.Presentation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/ref/Maki.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/ref/Maki.Presentation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/refint/Maki.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Debug/net7.0/refint/Maki.Presentation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Maki.Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Maki.Presentation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/Maki.Presentation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/Maki.Presentation.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Presentation/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Presentation/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/bin/Debug/net7.0/Maki.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/bin/Debug/net7.0/Maki.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/bin/Debug/net7.0/Maki.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/bin/Debug/net7.0/Maki.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Debug/net7.0/Maki.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Maki.Shared.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Maki.Shared.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/Maki.Shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/Maki.Shared.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maki.Shared/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maki.Shared/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Maki.Infraestructure/Contexts/MakiContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maki.Presentation/Mapper/ModelsToRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maki.Presentation/Mapper/ModelsToResponse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maki.Presentation/Mapper/RequestToModels.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hYG1MJE0u8t4NgVBoYht9OkUhP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/artisan-data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Jair\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Jair\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Jair\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ab67cd7-2331-43b5-8d68-1da3aaba31a5" name="Changes" comment="" />
+      <created>1717763383091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717763383091</updated>
+      <workItem from="1717763385543" duration="618000" />
+      <workItem from="1717791810756" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

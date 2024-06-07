@@ -9,3 +9,25 @@ C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Shared\obj\Debug\net7.0\Ma
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Shared\obj\Debug\net7.0\refint\Maki.Shared.dll
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.pdb
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Shared\obj\Debug\net7.0\ref\Maki.Shared.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\bin\Debug\net7.0\Maki.Shared.deps.json
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\bin\Debug\net7.0\Maki.Shared.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\bin\Debug\net7.0\Maki.Shared.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\Maki.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\Maki.Shared.AssemblyInfoInputs.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\Maki.Shared.AssemblyInfo.cs
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\Maki.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\Maki.Shared.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\refint\Maki.Shared.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\Maki.Shared.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Shared\obj\Debug\net7.0\ref\Maki.Shared.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\bin\Debug\net7.0\Maki.Shared.deps.json
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\bin\Debug\net7.0\Maki.Shared.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\bin\Debug\net7.0\Maki.Shared.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.AssemblyInfoInputs.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.AssemblyInfo.cs
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.csproj.CoreCompileInputs.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\refint\Maki.Shared.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\Maki.Shared.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Shared\obj\Debug\net7.0\ref\Maki.Shared.dll

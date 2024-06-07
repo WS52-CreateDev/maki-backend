@@ -15,3 +15,37 @@ C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Domain\obj\Debug\net7.0\Ma
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Domain\obj\Debug\net7.0\refint\Maki.Domain.dll
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.pdb
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Domain\obj\Debug\net7.0\ref\Maki.Domain.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Domain.deps.json
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Domain.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Domain.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Infraestructure.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Shared.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Infraestructure.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\bin\Debug\net7.0\Maki.Shared.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.csproj.AssemblyReference.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.AssemblyInfoInputs.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.AssemblyInfo.cs
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.csproj.CopyComplete
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\refint\Maki.Domain.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\Maki.Domain.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Domain\obj\Debug\net7.0\ref\Maki.Domain.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Domain.deps.json
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Domain.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Domain.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Infraestructure.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Shared.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Infraestructure.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\bin\Debug\net7.0\Maki.Shared.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.csproj.AssemblyReference.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.AssemblyInfoInputs.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.AssemblyInfo.cs
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.csproj.CoreCompileInputs.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.csproj.CopyComplete
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\refint\Maki.Domain.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\Maki.Domain.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Domain\obj\Debug\net7.0\ref\Maki.Domain.dll

@@ -873,32 +873,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alejandra\\.nuget\\packages\\": {}
+    "C:\\Users\\Jair\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\Maki.Domain\\Maki.Domain.csproj",
+      "projectUniqueName": "D:\\AplicacionesWeb-Trabajo\\back\\maki-backend\\Maki.Domain\\Maki.Domain.csproj",
       "projectName": "Maki.Domain",
-      "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\Maki.Domain\\Maki.Domain.csproj",
-      "packagesPath": "C:\\Users\\Alejandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\Maki.Domain\\obj\\",
+      "projectPath": "D:\\AplicacionesWeb-Trabajo\\back\\maki-backend\\Maki.Domain\\Maki.Domain.csproj",
+      "packagesPath": "C:\\Users\\Jair\\.nuget\\packages\\",
+      "outputPath": "D:\\AplicacionesWeb-Trabajo\\back\\maki-backend\\Maki.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alejandra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\Maki.Infraestructure\\Maki.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Alejandra\\Documents\\GitHub\\maki-backend\\Maki.Infraestructure\\Maki.Infraestructure.csproj"
+            "D:\\AplicacionesWeb-Trabajo\\back\\maki-backend\\Maki.Infraestructure\\Maki.Infraestructure.csproj": {
+              "projectPath": "D:\\AplicacionesWeb-Trabajo\\back\\maki-backend\\Maki.Infraestructure\\Maki.Infraestructure.csproj"
             }
           }
         }
@@ -938,7 +940,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Alejandra\\.dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

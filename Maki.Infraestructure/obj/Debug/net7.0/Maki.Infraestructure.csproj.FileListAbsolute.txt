@@ -13,3 +13,33 @@ C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Infraestructure\obj\Debug\
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\refint\Maki.Infraestructure.dll
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.pdb
 C:\Users\Alejandra\Documents\GitHub\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\ref\Maki.Infraestructure.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\bin\Debug\net7.0\Maki.Infraestructure.deps.json
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\bin\Debug\net7.0\Maki.Infraestructure.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\bin\Debug\net7.0\Maki.Infraestructure.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\bin\Debug\net7.0\Maki.Shared.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\bin\Debug\net7.0\Maki.Shared.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.AssemblyInfo.cs
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.csproj.CopyComplete
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\refint\Maki.Infraestructure.dll
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.pdb
+C:\Users\Jair\Desktop\uwu 2\Maki.Infraestructure\obj\Debug\net7.0\ref\Maki.Infraestructure.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\bin\Debug\net7.0\Maki.Infraestructure.deps.json
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\bin\Debug\net7.0\Maki.Infraestructure.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\bin\Debug\net7.0\Maki.Infraestructure.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\bin\Debug\net7.0\Maki.Shared.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\bin\Debug\net7.0\Maki.Shared.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.csproj.AssemblyReference.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.AssemblyInfoInputs.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.AssemblyInfo.cs
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.csproj.CoreCompileInputs.cache
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.csproj.CopyComplete
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\refint\Maki.Infraestructure.dll
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\Maki.Infraestructure.pdb
+D:\AplicacionesWeb-Trabajo\back\maki-backend\Maki.Infraestructure\obj\Debug\net7.0\ref\Maki.Infraestructure.dll
