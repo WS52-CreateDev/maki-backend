@@ -8,6 +8,7 @@ public class RequestToModels : Profile
 {
     public RequestToModels()
     {
+        CreateMap<DesignRequest, DesignDomain>();
         CreateMap<ProductRequest, Product>();
         CreateMap<CategoryRequest, Category>();
     }
