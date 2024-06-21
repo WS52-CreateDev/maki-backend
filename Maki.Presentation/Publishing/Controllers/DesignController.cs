@@ -1,62 +1,79 @@
 using _1_API.Request;
 using _1_API.Response;
 using _2_Domain;
+using _3_Data.Models;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 
-[Route("api/[controller]")]
-[ApiController]
 namespace _1_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class DesignController : ControllerBase
     {
-        private readonly IDesignService _designService;
+        private readonly IDesignData _designData;
         private readonly IMapper _mapper;
 
-        public DesignController(IDesignService designService, IMapper mapper)
+        public DesignController(IDesignData designData, IMapper mapper)
         {
-            _designService = designService;
+            _designData = designData;
             _mapper = mapper;
         }
 
+        // GET: api/Design
         [HttpGet]
         public async Task<IActionResult> GetAsync()
         {
-            var data = await _designService.GetAllAsync();
-            var result = _mapper.Map<List<DesignDomain>, List<DesignResponse>>(data.ToList());
+            var data = await _designData.GetAllAsync();
+            var result = _mapper.Map<List<Design>, List<DesignResponse>>(data);
+
+            if (result.Count == 0) return NotFound();
             return Ok(result);
         }
 
+        // GET: api/Design/id
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)
         {
-            var data = await _designService.GetByIdAsync(id);
-            if (data == null)
-                return NotFound();
+            var data = await _designData.GetByIdAsync(id);
+            var result = _mapper.Map<Design, DesignResponse>(data);
 
-            var result = _mapper.Map<DesignDomain, DesignResponse>(data);
-            return Ok(result);
+            if (result != null)
+                return Ok(result);
+
+            return NotFound();
         }
 
+        // POST: api/Design
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] DesignRequest input)
         {
-            if (ModelState.IsValid)
+            try
             {
-                var design = _mapper.Map<DesignRequest, DesignDomain>(input);
-                await _designService.CreateAsync(design);
-                return StatusCode(StatusCodes.Status201Created);
-            }
+                if (ModelState.IsValid)
+                {
+                    var design = _mapper.Map<DesignRequest, Design>(input);
+                    await _designData.SaveAsync(design);
+                    return StatusCode(StatusCodes.Status201Created);
+                }
 
-            return BadRequest(ModelState);
+                return BadRequest();
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
+            }
         }
 
+        // PUT: api/Design/id
+        [HttpPut("{id}")]
+        
+
+        // DELETE: api/Design/id
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(int id)
         {
-            await _designService.DeleteAsync(id);
+            await _designData.DeleteAsync(id);
             return Ok();
         }
     }

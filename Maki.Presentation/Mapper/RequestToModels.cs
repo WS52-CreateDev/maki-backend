@@ -1,4 +1,5 @@
 ﻿using _1_API.Request;
+using _3_Data;
 using _3_Data.Models;
 using AutoMapper;
 
@@ -8,7 +9,7 @@ public class RequestToModels : Profile
 {
     public RequestToModels()
     {
-        CreateMap<DesignRequest, DesignDomain>();
+        CreateMap<DesignRequest, DesignData>();
         CreateMap<ProductRequest, Product>();
         CreateMap<CategoryRequest, Category>();
     }
